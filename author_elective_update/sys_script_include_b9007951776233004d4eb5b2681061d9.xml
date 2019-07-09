@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_script_include">
+    <sys_script_include action="DELETE">
+        <access>package_private</access>
+        <active>true</active>
+        <api_name>sn_prbc2.blue1</api_name>
+        <caller_access/>
+        <client_callable>false</client_callable>
+        <description/>
+        <name>blue1</name>
+        <script><![CDATA[var blue1 = Class.create();
+blue1.prototype = {
+    initialize: function() {
+    },
+
+    type: 'blue1'
+};]]></script>
+        <sys_class_name>sys_script_include</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-07-09 02:46:11</sys_created_on>
+        <sys_id>b9007951776233004d4eb5b2681061d9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>blue1</sys_name>
+        <sys_package display_value="prbc2" source="sn_prbc2">75a65cd177223300ec23b5b268106107</sys_package>
+        <sys_policy>read</sys_policy>
+        <sys_scope display_value="prbc2">75a65cd177223300ec23b5b268106107</sys_scope>
+        <sys_update_name>sys_script_include_b9007951776233004d4eb5b2681061d9</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-07-09 02:46:11</sys_updated_on>
+    </sys_script_include>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="prbc2">75a65cd177223300ec23b5b268106107</application>
+        <file_path/>
+        <instance_id>evo8081</instance_id>
+        <instance_name>glide_db_dump</instance_name>
+        <name>sys_script_include_b9007951776233004d4eb5b2681061d9</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sys_script_include"&gt;&lt;sys_script_include action="INSERT_OR_UPDATE"&gt;&lt;access&gt;package_private&lt;/access&gt;&lt;active&gt;true&lt;/active&gt;&lt;api_name&gt;sn_prbc2.blue1&lt;/api_name&gt;&lt;caller_access/&gt;&lt;client_callable&gt;false&lt;/client_callable&gt;&lt;description/&gt;&lt;name&gt;blue1&lt;/name&gt;&lt;script&gt;&lt;![CDATA[var blue1 = Class.create();
+blue1.prototype = {
+    initialize: function() {
+    },
+
+    type: 'blue1'
+};]]&gt;&lt;/script&gt;&lt;sys_class_name&gt;sys_script_include&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2019-07-09 02:46:11&lt;/sys_created_on&gt;&lt;sys_id&gt;b9007951776233004d4eb5b2681061d9&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name&gt;blue1&lt;/sys_name&gt;&lt;sys_package display_value="prbc2" source="sn_prbc2"&gt;75a65cd177223300ec23b5b268106107&lt;/sys_package&gt;&lt;sys_policy&gt;read&lt;/sys_policy&gt;&lt;sys_scope display_value="prbc2"&gt;75a65cd177223300ec23b5b268106107&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_script_include_b9007951776233004d4eb5b2681061d9&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2019-07-09 02:46:11&lt;/sys_updated_on&gt;&lt;/sys_script_include&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>-1409748704</payload_hash>
+        <record_name>blue1</record_name>
+        <reverted_from/>
+        <source>e9523015772233004d4eb5b26810616f</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-07-09 02:46:11</sys_created_on>
+        <sys_id>66007951776233004d4eb5b2681061c7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>16bd49fd1150000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-07-09 02:46:11</sys_updated_on>
+        <type>Script Include</type>
+        <update_guid>ae007951b762330031dd64b5e06504c6</update_guid>
+        <update_guid_history>ae007951b762330031dd64b5e06504c6:-1409748704</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-07-09 02:46:32</sys_created_on>
+        <sys_db_object display_value="" name="sys_script_include">sys_script_include</sys_db_object>
+        <sys_id>5a51eab1f3f04e1ab534c7b19e122749</sys_id>
+        <sys_metadata>b9007951776233004d4eb5b2681061d9</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>blue1</sys_name>
+        <sys_package display_value="prbc2" source="sn_prbc2">75a65cd177223300ec23b5b268106107</sys_package>
+        <sys_parent/>
+        <sys_policy>read</sys_policy>
+        <sys_scope display_value="prbc2">75a65cd177223300ec23b5b268106107</sys_scope>
+        <sys_scope_delete display_value="">038fca7cb74f436680123d22781456e4</sys_scope_delete>
+        <sys_update_name>sys_script_include_b9007951776233004d4eb5b2681061d9</sys_update_name>
+        <sys_update_version display_value="sys_script_include_b9007951776233004d4eb5b2681061d9">66007951776233004d4eb5b2681061c7</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-07-09 02:46:32</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
