@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl">
+    <sys_security_acl action="DELETE">
+        <active>true</active>
+        <admin_overrides>true</admin_overrides>
+        <advanced>false</advanced>
+        <condition/>
+        <description>Default access control on sn_prbc2_tabl4</description>
+        <name>sn_prbc2_tabl4</name>
+        <operation display_value="read">read</operation>
+        <script/>
+        <sys_class_name>sys_security_acl</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-07-08 22:16:56</sys_created_on>
+        <sys_id>ae623055772233004d4eb5b2681061f5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>sn_prbc2_tabl4</sys_name>
+        <sys_package display_value="prbc2" source="sn_prbc2">75a65cd177223300ec23b5b268106107</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="prbc2">75a65cd177223300ec23b5b268106107</sys_scope>
+        <sys_update_name>sys_security_acl_ae623055772233004d4eb5b2681061f5</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-07-08 22:16:56</sys_updated_on>
+        <type display_value="record">record</type>
+    </sys_security_acl>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="prbc2">75a65cd177223300ec23b5b268106107</application>
+        <file_path/>
+        <instance_id>evo8081</instance_id>
+        <instance_name>glide_db_dump</instance_name>
+        <name>sys_security_acl_ae623055772233004d4eb5b2681061f5</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl"><sys_security_acl action="INSERT_OR_UPDATE"><active>true</active><admin_overrides>true</admin_overrides><advanced>false</advanced><condition/><description>Default access control on sn_prbc2_tabl4</description><name>sn_prbc2_tabl4</name><operation display_value="read">read</operation><script/><sys_class_name>sys_security_acl</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-07-08 22:16:56</sys_created_on><sys_id>ae623055772233004d4eb5b2681061f5</sys_id><sys_mod_count>0</sys_mod_count><sys_name>sn_prbc2_tabl4</sys_name><sys_package display_value="prbc2" source="sn_prbc2">75a65cd177223300ec23b5b268106107</sys_package><sys_policy/><sys_scope display_value="prbc2">75a65cd177223300ec23b5b268106107</sys_scope><sys_update_name>sys_security_acl_ae623055772233004d4eb5b2681061f5</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-07-08 22:16:56</sys_updated_on><type display_value="record">record</type></sys_security_acl></record_update>]]></payload>
+        <payload_hash>-1951007037</payload_hash>
+        <record_name>sn_prbc2_tabl4</record_name>
+        <reverted_from/>
+        <source>e9523015772233004d4eb5b26810616f</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-07-08 22:16:56</sys_created_on>
+        <sys_id>6a623055772233004d4eb5b2681061f8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>16bd3a94d190000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-07-08 22:16:56</sys_updated_on>
+        <type>Access Control</type>
+        <update_guid>a26230557422330044a4614b61ddf2f8</update_guid>
+        <update_guid_history>a26230557422330044a4614b61ddf2f8:-1951007037</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-07-09 00:14:16</sys_created_on>
+        <sys_db_object display_value="" name="sys_security_acl">sys_security_acl</sys_db_object>
+        <sys_id>023e3f7736c048d88006d332a5ad3a10</sys_id>
+        <sys_metadata>ae623055772233004d4eb5b2681061f5</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>sn_prbc2_tabl4</sys_name>
+        <sys_package display_value="prbc2" source="sn_prbc2">75a65cd177223300ec23b5b268106107</sys_package>
+        <sys_parent display_value="">ae627055772233004d4eb5b268106113</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="prbc2">75a65cd177223300ec23b5b268106107</sys_scope>
+        <sys_scope_delete display_value="">038fca7cb74f436680123d22781456e4</sys_scope_delete>
+        <sys_update_name>sys_security_acl_ae623055772233004d4eb5b2681061f5</sys_update_name>
+        <sys_update_version display_value="sys_security_acl_ae623055772233004d4eb5b2681061f5">6a623055772233004d4eb5b2681061f8</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-07-09 00:14:16</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
