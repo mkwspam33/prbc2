@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="" label="tabl4" language="en" table="sn_prbc2_tabl4">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>tabl4</label>
+            <language>en</language>
+            <name>sn_prbc2_tabl4</name>
+            <plural>tabl4s</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-07-08 22:16:57</sys_created_on>
+            <sys_id>f6627055772233004d4eb5b26810611d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>tabl4</sys_name>
+            <sys_package display_value="prbc2" source="sn_prbc2">75a65cd177223300ec23b5b268106107</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="prbc2">75a65cd177223300ec23b5b268106107</sys_scope>
+            <sys_update_name>sys_documentation_sn_prbc2_tabl4__en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-07-08 22:16:57</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
